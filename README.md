@@ -1,4 +1,4 @@
-# cryptohopper-com
+# Cryptohopper
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-cryptohopper-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://cryptohopper.com/
+Cryptohopper is the world’s leading cryptocurrency trading bot platform, enabling automated trading across 10 exchanges with AI‑powered strategies, copy trading, DCA, and advanced tools for traders of all levels. Founded in 2017 in Amsterdam, it serves worldwide users.
+
+**Areas:** Crypto Trading Bot · Automated Trading · Social Trading · AI Trading
+
+## Cryptohopper on APIs.io
+
+Everything profiled for Cryptohopper is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cryptohopper-com/](https://apis.io/providers/cryptohopper-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Cryptohopper API](https://apis.io/apis/cryptohopper-com/cryptohopper-api/) — API documentation for Cryptohopper platform
+- [Cryptohopper API](https://apis.io/apis/cryptohopper-com/cryptohopper-com-api/) — Cryptohopper API as documented publicly: 10 operations. Contract generated from the documentation by API Evangelist (2026-11-04); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [GetHopperIdResponse](https://apis.io/schemas/cryptohopper-com/cryptohopper-com-get-hopper-id-response/)
+- [GetV1HopperResponse](https://apis.io/schemas/cryptohopper-com/cryptohopper-com-get-v1-hopper-response/)
+- [PostV1HopperRequest](https://apis.io/schemas/cryptohopper-com/cryptohopper-com-post-v1-hopper-request/)
+- [PostV1HopperResponse](https://apis.io/schemas/cryptohopper-com/cryptohopper-com-post-v1-hopper-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Cryptohopper Com Context](https://apis.io/jsonld/cryptohopper-com/cryptohopper-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Cryptohopper API Rules](https://apis.io/rules/cryptohopper-com/cryptohopper-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cryptohopper Com Domain Security](https://apis.io/security/cryptohopper-com/cryptohopper-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Cryptohopper Com Plans Pricing](https://apis.io/plans/cryptohopper-com/cryptohopper-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cryptohopper.com/)
+- [Documentation](https://docs.cryptohopper.com/)
+- [API reference](https://www.cryptohopper.com/api-documentation/api-reference)
+- [Pricing](https://www.cryptohopper.com/pricing)
+- [Support](https://support.cryptohopper.com)
+- [Blog](https://www.cryptohopper.com/blog)
+- [Terms of service](https://www.cryptohopper.com/terms)
+- [Privacy policy](https://www.cryptohopper.com/privacy)
+- [GitHub](https://github.com/cryptohopper)
+
+## API Evangelist rating
+
+**Kin Score 54.5** — strong · rubric 0.25.0 · scored 2026-11-04
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 46.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 22.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 23.1** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cryptohopper-com/](https://apis.io/providers/cryptohopper-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cryptohopper: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cryptohopper-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
